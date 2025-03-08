@@ -1,0 +1,16 @@
+{
+  "name": "testingwithjest",
+  "version": "1.0.0",
+  "description": "Code feels simple in the beginning but it will become complex and grows into multiple use cases that much where our minds can hold it in",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
