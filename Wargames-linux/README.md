@@ -1,3 +1,6 @@
+https://overthewire.org/wargames/ here we are learning linux and games
+for hacking searches 
+https://www.exploit-db.com/google-hacking-database
 # Linux cmds and it's uses
 
 ```ssh```
